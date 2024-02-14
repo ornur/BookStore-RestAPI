@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production build
+/build
+/dist
+
+# environment variables
+.env
+
+# IDE files
+.vscode
+.idea
+
+# OS-generated files
+.DS_Store
+Thumbs.db
